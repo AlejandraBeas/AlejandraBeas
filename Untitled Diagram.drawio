@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T18:04:03.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="bLifx0mWFm7ViaxkwE5e" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T23:33:45.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="pHQhHQRTc1YroP5RGqpa" version="17.4.0" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1464" dy="1603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="U_CpTUdd8zcvjAYWJKQt-12" value="Cliente" style="swimlane;html=1;startSize=20;fontStyle=0;collapsible=0;horizontal=0;swimlaneLine=1;swimlaneFillColor=#ffffff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="160" y="-150" width="1340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CpTUdd8zcvjAYWJKQt-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="U_CpTUdd8zcvjAYWJKQt-12" source="2b4e8129b02d487f-6" target="U_CpTUdd8zcvjAYWJKQt-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-6" value="Preguntar disponibilidad de polerón por talla y polerón" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="U_CpTUdd8zcvjAYWJKQt-12" vertex="1">
           <mxGeometry x="320" y="35" width="80" height="48.5" as="geometry" />
